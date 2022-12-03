@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Rob Abrazado (he/him). I've been a programming hobbyist since childhood and started as a professional developer in the late 90s. I was in and out of the industry for the next couple decades and started freelancing in 2016.
+- 👀 I'm interested in TTRPGs, podcasts, and coding.
+- 📫 You can reach me professionally at [robabrazado.com](https://robabrazado.com/) or socially at [flatvurm.com](https://flatvurm.com/).
